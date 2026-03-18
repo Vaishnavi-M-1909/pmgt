@@ -1,0 +1,8 @@
+langchain==0.1.20
+langchain-core==0.1.53
+langchain-community==0.0.38
+langchain-openai==0.1.7
+langgraph==0.0.38
+sqlalchemy
+pymysql
+python-dotenv
